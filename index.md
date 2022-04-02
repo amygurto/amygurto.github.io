@@ -1,7 +1,7 @@
 # Recipes
 
 ## Baked goods
-* [Banana bread](/banabread.md)
+* [Banana bread](/bananabread.md)
 * [Beignets](/beignets.md)
 * [Bread](/bread.md)
 
